@@ -1,0 +1,5 @@
+python-dotenv
+replicate
+google-genai
+moviepy
+pytest
