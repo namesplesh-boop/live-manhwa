@@ -86,4 +86,4 @@ I chose Real-ESRGAN on Replicate because it is extremely cheap and does not requ
 
 **No automatic quality control.** The program cannot check the quality of the generated videos by itself. Sometimes Veo produces hallucinations, which can be explained by using one universal prompt instead of a prompt tailored to each image. A good improvement would be an AI agent that reviews every video and, if it finds hallucinations, either regenerates that video or writes an individual prompt for it.
 
-**Missing clips are skipped.** If at least one image or video fails to generate, the final video is still created, but it simply skips the missing parts ..
+**Missing clips are skipped.** If at least one image or video fails to generate, the final video is still created, but it simply skips the missing parts ...
